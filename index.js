@@ -13,4 +13,8 @@ export function reverseString(input) {
   return output;
 }
 
+export function add(a, b) {
+  return a + b;
+}
+
 console.log(reverseString('PeAnuTButTeR'));
