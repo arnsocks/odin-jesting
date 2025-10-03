@@ -13,6 +13,3 @@ export function mult(a, b) {
 export function div(a,b) {
   return a / b;
 }
-
-console.log('Dividing 50 by 0');
-console.log(div(50,0));
